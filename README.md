@@ -31,11 +31,9 @@ Tenho experiência profissional na área da saúde e estou construindo uma nova 
 ✔ Atuar profissionalmente na área de Tecnologia
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/fabianenr/fabianenr/&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabianenr&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/fabianenr/fabianenr/&layout=compact)
-## Contato
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianenr&layout=compact&theme=dark)
 📧 fabianenevesribeiro@gmail.com
 
 💼 LinkedIn: [seu-linkedin](https://www.linkedin.com/in/fabiane-ribeiro-8167453b5/)
