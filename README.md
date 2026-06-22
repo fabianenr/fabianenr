@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou a Fabiane Ribeiro! 👋
 
-<!--
-**fabianenr/fabianenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦷 Cirurgiã-Dentista
 
-Here are some ideas to get you started:
+💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Em transição para a área de Tecnologia
+
+## Sobre mim
+
+Atualmente estudo desenvolvimento de software, banco de dados, automação e segurança da informação.
+
+Tenho experiência profissional na área da saúde e estou construindo uma nova trajetória na tecnologia, desenvolvendo projetos práticos e ampliando meus conhecimentos diariamente.
+
+## Tecnologias em aprendizado
+
+- Python
+- SQL
+- Git e GitHub
+- HTML
+- CSS
+- JavaScript
+- Segurança da Informação
+
+## Objetivos
+
+✔ Desenvolver projetos reais
+
+✔ Construir um portfólio sólido
+
+✔ Atuar profissionalmente na área de Tecnologia
+
+## Contato
+
+📧 seuemail@email.com
+
+💼 LinkedIn: seu-linkedin
+
+---
+
+⭐ Obrigada por visitar meu perfil!
