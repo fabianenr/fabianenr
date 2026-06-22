@@ -36,7 +36,7 @@ Tenho experiência profissional na área da saúde e estou construindo uma nova 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianenr&layout=compact&theme=dark)
 📧 fabianenevesribeiro@gmail.com
 
-💼 LinkedIn: [seu-linkedin](https://www.linkedin.com/in/fabiane-ribeiro-8167453b5/)
+💼 LinkedIn: (https://www.linkedin.com/in/fabiane-ribeiro-8167453b5/)
 
 ---
 
