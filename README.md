@@ -1,5 +1,7 @@
 # Olá, eu sou a Fabiane Ribeiro! 👋
 
+✨ Transformando experiência em saúde em soluções tecnológicas.
+
 🦷 Cirurgiã-Dentista
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
@@ -8,12 +10,12 @@
 
 ## Sobre mim
 
-Atualmente estudo desenvolvimento de software, banco de dados, automação e segurança da informação.
+Sou Cirurgiã-Dentista e estudante de Análise e Desenvolvimento de Sistemas, em transição para a área de Tecnologia.
 
-Tenho experiência profissional na área da saúde e estou construindo uma nova trajetória na tecnologia, desenvolvendo projetos práticos e ampliando meus conhecimentos diariamente.
+Atualmente estudo desenvolvimento de software, banco de dados, QA, automação e segurança da informação, construindo projetos práticos para desenvolver experiência e contribuir com soluções inovadoras.
 
-## Tecnologias em aprendizado
-
+## 🚀 Tecnologias
+- QA (Testes de Software)
 - Python
 - SQL
 - Git e GitHub
@@ -35,6 +37,16 @@ Tenho experiência profissional na área da saúde e estou construindo uma nova 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianenr&layout=compact&theme=dark)
 
+## 📂 Projetos
+
+🔹 Calculadora IMC em Java
+
+🔹 Exercícios de Lógica de Programação
+
+🔹 Estudos de Banco de Dados
+
+🔹 Projeto Termofrio (Análise de Requisitos e QA)
+
 ## 📊 Estatísticas GitHub
 
 (seus gráficos)
@@ -53,7 +65,7 @@ Tenho experiência profissional na área da saúde e estou construindo uma nova 
 
 📧 fabianenevesribeiro@gmail.com
 
-💼 LinkedIn: (https://www.linkedin.com/in/fabiane-ribeiro-8167453b5/)
+💼 LinkedIn: [Fabiane Ribeiro](https://www.linkedin.com/in/fabiane-ribeiro-8167453b5/)
 
 ---
 
